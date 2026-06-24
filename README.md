@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
