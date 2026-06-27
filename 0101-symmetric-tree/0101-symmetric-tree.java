@@ -23,8 +23,9 @@ class Solution {
         if(a==null && b==null) return true;
         if(a==null || b==null) return false;
         if(a.val!=b.val) return false;
-        isMirror(a.left,b.right);
-        isMirror(a.right,b.left);
-        return isMirror(a.left, b.right) && isMirror(a.right, b.left);
+        boolean r1=isMirror(a.left,b.right);
+        boolean r2=isMirror(a.right,b.left);
+        if(r1==true && r2==true) return true;
+        return false;
     }
 }
