@@ -15,23 +15,23 @@
  */
 class Solution {
     TreeNode ans=null;
-    int deepest=0;
+    int depth=0;
     public TreeNode lcaDeepestLeaves(TreeNode root) {
-        depth(root,0);
+        helper(root,0);
         return ans;
     }
 
-    public int depth(TreeNode root,int d){
+    public int helper(TreeNode root,int d){
         if(root==null) return d;
+        int left=helper(root.left,d+1);
+        int right=helper(root.right,d+1);
 
-        int left=depth(root.left,d+1);
-        int right=depth(root.right,d+1);
-
-        if(left==right && left>=deepest){
-            deepest=left;
+        if(left==right && left>=depth){
+            depth=left;
             ans=root;
         }
 
         return Math.max(left,right);
+
     }
 }
