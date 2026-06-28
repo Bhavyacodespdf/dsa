@@ -14,24 +14,56 @@
  * }
  */
 class Solution {
-    public boolean findTarget(TreeNode root, int k) {
-        List<Integer> list=new ArrayList<>();
-        inorder(root,list);
-        HashSet<Integer> map=new HashSet<>();
+    Stack<TreeNode> asc=new Stack<>();
+    Stack<TreeNode> dsc=new Stack<>();
 
-        for(int i=0;i<list.size();i++){
-            if(map.contains(k - list.get(i))) return true;
-            map.add(list.get(i));
+    public boolean findTarget(TreeNode root, int k) {
+        if(root==null) return false;
+
+        TreeNode t=root;
+        while(t!=null){
+            asc.push(t);
+            t=t.left;
+        }
+
+        t=root;
+        while(t!=null){
+            dsc.push(t);
+            t=t.right;
+        }
+
+        TreeNode i=getSmall();
+        TreeNode j=getBig();
+
+        while(i!=null && j!=null && i!=j && i.val<=j.val){
+            int sum=i.val+j.val;
+            if(sum==k) return true;
+            if(sum>k) j=getBig();
+            else i=getSmall();
         }
 
         return false;
     }
 
-    public void inorder(TreeNode root,List<Integer> list){
-        if(root==null) return;
+    public TreeNode getSmall(){
+        TreeNode small=asc.pop();
+        TreeNode sright=small.right;
+        while(sright!=null){
+            asc.push(sright);
+            sright=sright.left;
+        }
 
-        inorder(root.left,list);
-        list.add(root.val);
-        inorder(root.right,list);
+        return small;
+    }
+
+    public TreeNode getBig(){
+        TreeNode big=dsc.pop();
+        TreeNode bleft=big.left;
+        while(bleft!=null){
+            dsc.push(bleft);
+            bleft=bleft.right;
+        }
+
+        return big;
     }
 }
