@@ -35,8 +35,7 @@ class Solution {
             helper(root.left,sum,targetSum,res);
             helper(root.right,sum,targetSum,res);
         }
-
-        sum-=root.val;
+        
         res.removeLast();
     }
 }
