@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Bhavyacodespdf/dsa/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Bhavyacodespdf/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavyacodespdf/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhavyacodespdf/dsa/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Bhavyacodespdf/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Bhavyacodespdf/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavyacodespdf/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhavyacodespdf/dsa/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Bhavyacodespdf/dsa/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhavyacodespdf/dsa/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -310,5 +313,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Bhavyacodespdf/dsa/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhavyacodespdf/dsa/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
