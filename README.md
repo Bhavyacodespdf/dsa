@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
+| [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhavyacodespdf/dsa/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Math
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavyacodespdf/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Bhavyacodespdf/dsa/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Bhavyacodespdf/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavyacodespdf/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Bhavyacodespdf/dsa/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Bhavyacodespdf/dsa/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhavyacodespdf/dsa/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -314,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Bhavyacodespdf/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhavyacodespdf/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bhavyacodespdf/dsa/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Bhavyacodespdf/dsa/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
