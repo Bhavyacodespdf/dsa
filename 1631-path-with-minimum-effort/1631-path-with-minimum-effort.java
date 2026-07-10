@@ -17,13 +17,13 @@ class Solution {
         int[][] res=new int[n][m];
 
         for(int i=0;i<n;i++){
-            int[] arr=new int[m];
-            Arrays.fill(arr,Integer.MAX_VALUE);
-            res[i]=arr;
+            int[] ans=new int[m];
+            Arrays.fill(ans,Integer.MAX_VALUE);
+            res[i]=ans;
         }
 
         PriorityQueue<Pair> pq=new PriorityQueue<>(
-            (a, b)-> a.d-b.d
+            (a, b) -> a.d-b.d
         );
 
         res[0][0]=0;
@@ -34,17 +34,17 @@ class Solution {
 
         while(!pq.isEmpty()){
             Pair top=pq.poll();
-            int dis=top.d;
+            int d=top.d;
             int row=top.r;
             int col=top.c;
 
-            if(dis>res[row][col]) continue;
+            if(d>res[row][col]) continue;
             for(int k=0;k<4;k++){
                 int r=row+dx[k];
                 int c=col+dy[k];
-                if(!(valid(r,c,n,m))) continue;
-                int absum=Math.abs(heights[row][col]-heights[r][c]);
-                int wt=Math.max(absum,dis);
+                if(!(isValid(r,c,n,m))) continue;
+                int absum=Math.abs(heights[r][c]-heights[row][col]);
+                int wt=Math.max(absum,d);
                 if(wt<res[r][c]){
                     res[r][c]=wt;
                     pq.offer(new Pair(wt,r,c));
@@ -55,7 +55,7 @@ class Solution {
         return res[n-1][m-1];
     }
 
-    public boolean valid(int r,int c,int n,int m){
+    private boolean isValid(int r,int c,int n,int m){
         if(r<0||c<0||r>=n||c>=m) return false;
         return true;
     }
