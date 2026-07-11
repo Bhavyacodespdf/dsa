@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -334,9 +337,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhavyacodespdf/dsa/tree/master/0785-is-graph-bipartite) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Bhavyacodespdf/dsa/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
