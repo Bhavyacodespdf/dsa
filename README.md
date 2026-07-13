@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavyacodespdf/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Divide and Conquer
