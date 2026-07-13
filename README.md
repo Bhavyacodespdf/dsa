@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Bhavyacodespdf/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bhavyacodespdf/dsa/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/Bhavyacodespdf/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Bhavyacodespdf/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhavyacodespdf/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bhavyacodespdf/dsa/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Bhavyacodespdf/dsa/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavyacodespdf/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
