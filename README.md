@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhavyacodespdf/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhavyacodespdf/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bhavyacodespdf/dsa/tree/master/0127-word-ladder) |
+| [0229-majority-element-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bhavyacodespdf/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bhavyacodespdf/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Bhavyacodespdf/dsa/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Bhavyacodespdf/dsa/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Bhavyacodespdf/dsa/tree/master/0502-ipo) |
