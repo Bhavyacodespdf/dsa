@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhavyacodespdf/dsa/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhavyacodespdf/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhavyacodespdf/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bhavyacodespdf/dsa/tree/master/0127-word-ladder) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bhavyacodespdf/dsa/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Bhavyacodespdf/dsa/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bhavyacodespdf/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Bhavyacodespdf/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0090-subsets-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Bhavyacodespdf/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhavyacodespdf/dsa/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
