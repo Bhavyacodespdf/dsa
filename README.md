@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bhavyacodespdf/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Bhavyacodespdf/dsa/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhavyacodespdf/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavyacodespdf/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0767-reorganize-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Bhavyacodespdf/dsa/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Bhavyacodespdf/dsa/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhavyacodespdf/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhavyacodespdf/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Bhavyacodespdf/dsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
