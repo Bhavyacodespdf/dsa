@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Bhavyacodespdf/dsa/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Bhavyacodespdf/dsa/tree/master/1046-last-stone-weight) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhavyacodespdf/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavyacodespdf/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhavyacodespdf/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bhavyacodespdf/dsa/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Bhavyacodespdf/dsa/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhavyacodespdf/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
