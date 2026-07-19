@@ -21,7 +21,7 @@ class Solution {
             odd=even.next;
             even.next=odd.next;
             even=odd.next;
-
+            
         }
 
         odd.next=evenNode;
