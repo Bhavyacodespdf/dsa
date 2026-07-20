@@ -25,6 +25,6 @@ public class Solution {
             if(temp2==null) temp2=headA;
         }
 
-        return null;
+        return temp1;
     }
 }
