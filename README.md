@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Bhavyacodespdf/dsa/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Bhavyacodespdf/dsa/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Bhavyacodespdf/dsa/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Bhavyacodespdf/dsa/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhavyacodespdf/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Bhavyacodespdf/dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Bhavyacodespdf/dsa/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Bhavyacodespdf/dsa/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
