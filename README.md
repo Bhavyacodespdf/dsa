@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bhavyacodespdf/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Bhavyacodespdf/dsa/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Bhavyacodespdf/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyacodespdf/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavyacodespdf/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Bhavyacodespdf/dsa/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Bhavyacodespdf/dsa/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Bhavyacodespdf/dsa/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyacodespdf/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -462,8 +464,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bhavyacodespdf/dsa/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Bhavyacodespdf/dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Bhavyacodespdf/dsa/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bhavyacodespdf/dsa/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bhavyacodespdf/dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
