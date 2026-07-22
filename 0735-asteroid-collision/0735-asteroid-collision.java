@@ -1,10 +1,11 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         Stack<Integer> st=new Stack<>();
-        
-        for(int curr: asteroids){
+
+        for(int curr : asteroids){
             boolean alive=true;
-            while(alive && curr <0 && !st.isEmpty() && st.peek()>0){
+
+            while(alive && curr<0 && !st.isEmpty() && st.peek()>0){
                 if(st.peek()<Math.abs(curr)) st.pop();
                 else if(st.peek()==Math.abs(curr)){
                     st.pop();
@@ -22,6 +23,5 @@ class Solution {
         }
 
         return res;
-
     }
 }
