@@ -8,15 +8,16 @@ class Solution {
 
         while(l<r){
             if(height[l]<=height[r]){
-                if(lmax<height[l]) lmax=height[l];
+                if(height[l]>=lmax) lmax=height[l];
                 else total+=lmax-height[l];
-                l=l+1;
+                l++;
             }
             else{
-                if(rmax<height[r]) rmax=height[r];
+                if(height[r]>=rmax) rmax=height[r];
                 else total+=rmax-height[r];
-                r=r-1;
+                r--;
             }
+
         }
 
         return total;
