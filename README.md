@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhavyacodespdf/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Bhavyacodespdf/dsa/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0509-fibonacci-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Bhavyacodespdf/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0136-single-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
 | ------- |
