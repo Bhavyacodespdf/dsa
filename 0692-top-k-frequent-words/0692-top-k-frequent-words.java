@@ -1,11 +1,11 @@
 class Solution {
     class Pair{
-        int first;
-        String second;
+        String s;
+        int freq;
 
-        Pair(int f,String s){
-            first=f;
-            second=s;
+        Pair(String s,int freq){
+            this.s=s;
+            this.freq=freq;
         }
     }
     public List<String> topKFrequent(String[] words, int k) {
@@ -14,26 +14,27 @@ class Solution {
         for(String s:words){
             map.put(s,map.getOrDefault(s,0)+1);
         }
+
         PriorityQueue<Pair> pq=new PriorityQueue<>(
-            (a,b)->{
-                if(a.first!=b.first) return a.first-b.first;
-                return b.second.compareTo(a.second);
+            (a,b) ->{
+                if(a.freq!=b.freq) return a.freq-b.freq;
+                else return b.s.compareTo(a.s);
             }
         );
 
-        for(HashMap.Entry<String, Integer> entry : map.entrySet()){
-            pq.add(new Pair(entry.getValue(),entry.getKey()));
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            pq.offer(new Pair(entry.getKey(),entry.getValue()));
             if(pq.size()>k) pq.poll();
         }
 
-        ArrayList<String> arr=new ArrayList<>();
+        List<String> ls=new ArrayList<>();
 
         for(int i=0;i<k;i++){
-            arr.add(pq.peek().second);
-            pq.poll();
+            ls.add(pq.poll().s);
         }
 
-        Collections.reverse(arr);
-        return arr;
+        Collections.reverse(ls);
+        return ls;
+
     }
 }
