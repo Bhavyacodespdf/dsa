@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhavyacodespdf/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Bhavyacodespdf/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/Bhavyacodespdf/dsa/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavyacodespdf/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/Bhavyacodespdf/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhavyacodespdf/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Bhavyacodespdf/dsa/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/Bhavyacodespdf/dsa/tree/master/1672-richest-customer-wealth) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Math
