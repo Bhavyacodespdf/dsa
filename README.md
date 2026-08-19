@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Bhavyacodespdf/dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Bhavyacodespdf/dsa/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Bhavyacodespdf/dsa/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0767-reorganize-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Bhavyacodespdf/dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Bhavyacodespdf/dsa/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Bhavyacodespdf/dsa/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0767-reorganize-string) |
 ## Array
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhavyacodespdf/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Bhavyacodespdf/dsa/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhavyacodespdf/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhavyacodespdf/dsa/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Bhavyacodespdf/dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Bhavyacodespdf/dsa/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Bhavyacodespdf/dsa/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhavyacodespdf/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Bhavyacodespdf/dsa/tree/master/2104-sum-of-subarray-ranges) |
@@ -528,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Bhavyacodespdf/dsa/tree/master/0686-repeated-string-match) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
