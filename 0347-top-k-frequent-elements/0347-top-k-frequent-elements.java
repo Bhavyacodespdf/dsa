@@ -19,17 +19,17 @@ class Solution {
             (a,b) -> a.freq-b.freq
         );
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()){
             pq.offer(new Pair(entry.getKey(),entry.getValue()));
             if(pq.size()>k) pq.poll();
         }
 
-        int[] ans=new int[k];
+        int[] arr=new int[k];
 
         for(int i=0;i<k;i++){
-            ans[i]=pq.poll().val;
+            arr[i]=pq.poll().val;
         }
 
-        return ans;
+        return arr;
     }
 }
