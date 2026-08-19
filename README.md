@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Bhavyacodespdf/dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Bhavyacodespdf/dsa/tree/master/0409-longest-palindrome) |
+| [0686-repeated-string-match](https://github.com/Bhavyacodespdf/dsa/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhavyacodespdf/dsa/tree/master/1189-maximum-number-of-balloons) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Bhavyacodespdf/dsa/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/Bhavyacodespdf/dsa/tree/master/0686-repeated-string-match) |
 ## Hash Function
 |  |
 | ------- |
@@ -514,4 +516,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhavyacodespdf/dsa/tree/master/0023-merge-k-sorted-lists) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Bhavyacodespdf/dsa/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Bhavyacodespdf/dsa/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Bhavyacodespdf/dsa/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
