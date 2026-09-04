@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Bhavyacodespdf/dsa/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Bhavyacodespdf/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhavyacodespdf/dsa/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Bhavyacodespdf/dsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bhavyacodespdf/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Bhavyacodespdf/dsa/tree/master/0078-subsets) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhavyacodespdf/dsa/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Bhavyacodespdf/dsa/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Bhavyacodespdf/dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0509-fibonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
