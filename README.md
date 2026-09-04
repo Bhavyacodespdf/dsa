@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhavyacodespdf/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavyacodespdf/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bhavyacodespdf/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bhavyacodespdf/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bhavyacodespdf/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Bhavyacodespdf/dsa/tree/master/0502-ipo) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavyacodespdf/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhavyacodespdf/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bhavyacodespdf/dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Bhavyacodespdf/dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0509-fibonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Bhavyacodespdf/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
