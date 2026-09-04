@@ -4,11 +4,11 @@ class Solution {
         int s2=0;
 
         for(int i=1;i<=nums.length;i++){
-            s1^=i;
-            s2^=nums[i-1];
+            s1+=i;
+            s2+=nums[i-1];
         }
 
-        return s1^s2;
+        return s1-s2;
 
     }
 }
