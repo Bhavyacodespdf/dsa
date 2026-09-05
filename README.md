@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Bhavyacodespdf/dsa/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Bhavyacodespdf/dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Bhavyacodespdf/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Bhavyacodespdf/dsa/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Bhavyacodespdf/dsa/tree/master/0778-swim-in-rising-water) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyacodespdf/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Bhavyacodespdf/dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavyacodespdf/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
