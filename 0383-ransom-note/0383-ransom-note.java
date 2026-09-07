@@ -8,10 +8,9 @@ class Solution {
         
         for(char c:ransomNote.toCharArray()){
             if(!map.containsKey(c)) return false;
-
             map.put(c,map.get(c)-1);
-
             if(map.get(c)<0) return false;
+
 
         }
 
