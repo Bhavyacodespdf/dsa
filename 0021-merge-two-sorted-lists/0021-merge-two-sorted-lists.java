@@ -13,13 +13,12 @@ class Solution {
         ListNode dum=new ListNode(0);
         ListNode temp=dum;
 
-        
         while(list1!=null && list2!=null){
             if(list1.val<list2.val){
                 temp.next=list1;
                 list1=list1.next;
             }
-            else {
+            else{
                 temp.next=list2;
                 list2=list2.next;
             }
@@ -39,6 +38,5 @@ class Solution {
         }
 
         return dum.next;
-        
     }
 }
