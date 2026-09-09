@@ -11,7 +11,6 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         if(head==null || head.next==null) return true;
-
         ListNode slow=head;
         ListNode fast=head;
 
@@ -20,28 +19,29 @@ class Solution {
             fast=fast.next.next;
         }
 
-        ListNode temp=rev(slow);
         ListNode mid=slow;
+        ListNode newL=rev(slow);
         slow=head;
 
-        while(slow!=mid){
-            if(temp.val!=slow.val) return false;
-            temp=temp.next;
+        while(slow!=mid && newL!=null){
+            if(slow.val!=newL.val) return false;
             slow=slow.next;
+            newL=newL.next;
         }
 
-        return true; 
+        return true;
     }
 
     public ListNode rev(ListNode head){
+        ListNode curr=head;
         ListNode prev=null;
         ListNode next=null;
 
-        while(head!=null){
-            next=head.next;
-            head.next=prev;
-            prev=head;
-            head=next;
+        while(curr!=null){
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
         }
 
         return prev;
