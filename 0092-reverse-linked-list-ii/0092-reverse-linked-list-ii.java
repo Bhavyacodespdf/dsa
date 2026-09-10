@@ -17,7 +17,7 @@ class Solution {
         for(int i=1;i<left;i++){
             temp=temp.next;
         }
-        
+
         ListNode curr=temp.next;
 
         for(int i=0;i<right-left;i++){
