@@ -12,17 +12,16 @@ class Solution {
 
             int nge=-1;
             if(!st.isEmpty()) nge=st.peek();
-            map.put(curr,nge);
 
+            map.put(curr,nge);
             st.push(curr);
         }
 
         int[] res=new int[nums1.length];
-        for(int i=0;i<res.length;i++){
+        for(int i=0;i<nums1.length;i++){
             res[i]=map.get(nums1[i]);
         }
 
         return res;
-
     }
 }
