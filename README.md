@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Bhavyacodespdf/dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Bhavyacodespdf/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Bhavyacodespdf/dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Bhavyacodespdf/dsa/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0678-valid-parenthesis-string) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Bhavyacodespdf/dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Bhavyacodespdf/dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Bhavyacodespdf/dsa/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0678-valid-parenthesis-string) |
