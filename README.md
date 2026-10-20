@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Bhavyacodespdf/dsa/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavyacodespdf/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyacodespdf/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Bhavyacodespdf/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhavyacodespdf/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Bhavyacodespdf/dsa/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Bhavyacodespdf/dsa/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyacodespdf/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhavyacodespdf/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Bhavyacodespdf/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Bhavyacodespdf/dsa/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyacodespdf/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
