@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavyacodespdf/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Bhavyacodespdf/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0509-fibonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Bhavyacodespdf/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
