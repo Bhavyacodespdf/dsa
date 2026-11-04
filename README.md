@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhavyacodespdf/dsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bhavyacodespdf/dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavyacodespdf/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhavyacodespdf/dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Bhavyacodespdf/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhavyacodespdf/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhavyacodespdf/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavyacodespdf/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Bhavyacodespdf/dsa/tree/master/0658-find-k-closest-elements) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyacodespdf/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Bhavyacodespdf/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhavyacodespdf/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -621,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Bhavyacodespdf/dsa/tree/master/0056-merge-intervals) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhavyacodespdf/dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
